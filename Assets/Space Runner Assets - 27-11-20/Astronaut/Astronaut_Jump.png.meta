@@ -39,6 +39,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -256,6 +257,12 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Astronaut_Jump_3: 9194681554490065042
+      Astronaut_Jump_0: -4380782154240594400
+      Astronaut_Jump_1: -6313766796536875077
+      Astronaut_Jump_2: 3304553690527318198
+      Astronaut_Jump_4: -1682926904819799493
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

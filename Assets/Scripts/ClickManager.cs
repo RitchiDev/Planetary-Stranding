@@ -35,7 +35,7 @@ public class ClickManager : MonoBehaviour
         {
             if (m_ActiveGravityZone.gameObject.activeInHierarchy)
             {
-                m_ActiveGravityZone.gameObject.SetActive(false);
+                m_ActiveGravityZone.ShrinkAndDeactivate();
                 m_ActiveGravityZone = null;
 
                 StopCoroutine(m_GravityZoneTimer);

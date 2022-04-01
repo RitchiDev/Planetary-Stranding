@@ -48,6 +48,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -328,6 +329,15 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      sparkle-effect_6: 7488118529128472346
+      sparkle-effect_0: -1687668979407869369
+      sparkle-effect_7: 1349888497767774681
+      sparkle-effect_4: 4320346182914089171
+      sparkle-effect_2: 3360924203528370840
+      sparkle-effect_5: 8964065664729637325
+      sparkle-effect_1: -2013738132567270134
+      sparkle-effect_3: 3704030773536603489
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

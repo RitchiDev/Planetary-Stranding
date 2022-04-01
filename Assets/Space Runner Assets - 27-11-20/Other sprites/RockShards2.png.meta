@@ -48,6 +48,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -328,6 +329,15 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      RockShards2_4: 3952404479494194868
+      RockShards2_2: 1514739862812702040
+      RockShards2_0: 5237900714043199336
+      RockShards2_5: -8775179741466271684
+      RockShards2_6: -5503823920675166330
+      RockShards2_1: -8588350300003366492
+      RockShards2_7: 1297209048950060171
+      RockShards2_3: -7043351276646434921
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
